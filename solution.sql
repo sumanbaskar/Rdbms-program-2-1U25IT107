@@ -9,4 +9,4 @@ CREATE TABLE Student (
     Gender VARCHAR(10) NOT NULL,
     DepartmentID INT(5) NOT NULL
 );
-desc Students;
+desc Student;
